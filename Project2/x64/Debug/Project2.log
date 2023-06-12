@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\Project2\main.c(118,10): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\Project2\main.c(185,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\x64\Debug\Project2.exe

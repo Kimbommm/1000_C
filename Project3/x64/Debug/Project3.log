@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\Project3\main.c(30,2): warning C4013: '_getch' undefined; assuming extern returning int
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\Project3\main.c(34,56): warning C4028: formal parameter 5 different from declaration
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\Project3\main.c(129,10): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\Project3\main.c(232,9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\Project3\main.c(313,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project3.vcxproj -> C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\x64\Debug\Project3.exe

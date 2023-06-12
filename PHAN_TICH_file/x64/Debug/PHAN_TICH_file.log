@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(29,2): warning C4013: '_getch' undefined; assuming extern returning int
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(120,10): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(201,21): warning C4028: formal parameter 1 different from declaration
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(223,20): warning C4028: formal parameter 1 different from declaration
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(223,45): warning C4028: formal parameter 2 different from declaration
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(223,53): warning C4028: formal parameter 3 different from declaration
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(236,9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(263,17): warning C4028: formal parameter 1 different from declaration
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(263,42): warning C4028: formal parameter 2 different from declaration
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(263,50): warning C4028: formal parameter 3 different from declaration
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(316,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\PHAN_TICH_file\main.c(183): warning C4716: 'ngaunhien': must return a value
+  PHAN_TICH_file.vcxproj -> C:\Users\DELL GAMING\Desktop\HK1_2023\C\THUCHANH\GAMEC\x64\Debug\PHAN_TICH_file.exe
